@@ -56,5 +56,5 @@ Database Management: MySQL
 Contact:
 
 - Email: geraldinevele@gmail.com
-- LinkedIn: http://www.linkedin.com/in/tikedzani-geraldine-vele
+- LinkedIn: www.linkedin.com/in/tikedzani-geraldine-vele
 
