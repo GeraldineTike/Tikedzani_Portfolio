@@ -45,3 +45,16 @@ In this project, I analyzed Mastercard’s stock data to identify patterns, tren
 
 Link to the repository: https://github.com/GeraldineTike/Mastercard_Stock_Analysis.git
 
+Skills
+Programming languages:SQL and Python
+Machine Learning: Scikit-learn
+Data visualization: Power BI, Seaborn, Matplotlib
+Data processing: Pandas, Numpy
+Database Management: MySQL
+
+
+Contact:
+
+- Email: geraldinevele@gmail.com
+- LinkedIn: http://www.linkedin.com/in/tikedzani-geraldine-vele
+
